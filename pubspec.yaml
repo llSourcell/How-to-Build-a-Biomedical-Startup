@@ -1,0 +1,14 @@
+name: fluttr_protorecorder
+description: A new flutter project.
+version: 0.2.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/sytody.png

@@ -1,0 +1,14 @@
+.DS_Store
+.atom/
+.idea
+.packages
+.pub/
+build/
+ios/.generated/
+packages
+pubspec.lock
+.flutter-plugins
+todo.md
+assets/sytody.fw.png
+assets/sytody_1024.png
+notes.md
