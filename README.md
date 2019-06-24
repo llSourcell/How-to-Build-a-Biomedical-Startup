@@ -13,7 +13,7 @@ flutter run
 
 :tv: [Video demo](https://youtu.be/7MGuNZfgGWw)
 
-## TODOs
+## TODOs - Make a PR if you fix any
 
 - Take the model [here](https://colab.research.google.com/drive/11hAr1qo7VCSmIjWREFwyTFblU2LVeh1R) and integrate it into the app. My previous healthcare [app](https://github.com/llSourcell/How_to_Build_a_healthcare_startup) nicely integrated tensorflow lite. 
 - Parse the input using keyword recognition. You can use an existing API like [this](https://www.twinword.com/api/text-classification.php) to categorize words as symptoms, medications, or side effects. Train a new model on a health dataset for the most accuracy, have it learn to classify those 3 keywords from a given corpus. Once the input is parsed properly into those categories, it can be fed into the existing model. 
